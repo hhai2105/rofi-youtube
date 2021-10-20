@@ -1,0 +1,12 @@
+#+title: rofi-youtube
+#+author: Hai Nguyen
+
+* Summary 
+A rofi-script to watch youtube using MPV
+
+* Requirements
+
+Nodejs axios module
+#+begin_src python
+npm install axios
+#+end_src
