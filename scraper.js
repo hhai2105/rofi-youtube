@@ -23,8 +23,6 @@ function videoSearch (key, search, max){
 }
 
 
-console.log(search);
-
 videoSearch(api, search, numResult).then(data =>{
 	for(let i =0; i < data.length; i++){
 		console.log(data[i].id.videoId + " " + data[i].snippet.title);
