@@ -5,8 +5,10 @@
 A rofi-script to watch youtube using MPV
 
 * Requirements
-
-Nodejs axios module
+** rofi
+https://github.com/davatorium/rofi
+** Nodejs
+*** axios module
 #+begin_src python
 npm install axios
 #+end_src
