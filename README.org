@@ -12,3 +12,8 @@ https://github.com/davatorium/rofi
 #+begin_src python
 npm install axios
 #+end_src
+
+** mpv
+** youtube-dl
+* Usage
+
